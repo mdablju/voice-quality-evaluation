@@ -107,8 +107,6 @@ These sessions often reveal issues that are not immediately obvious in short tec
 Audio examples are **intentionally not included** in this repository.
 The focus here is on **evaluation methodology and listening criteria**, rather than publishing audio material.
 
-Selected audio examples can be shared upon request.
-
 ---
 
 ## Background
